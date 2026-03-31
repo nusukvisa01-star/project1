@@ -30,7 +30,7 @@ from pyrogram.handlers import MessageHandler
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # ================= SOZLAMALAR =================
-BOT_TOKEN = "8336829201:AAHxq5EvQm7Cdf0Tx08An_OF0DoMLrsd4gA"
+BOT_TOKEN = ""
 SUPER_ADMIN_ID = 5724592490
 DB_NAME = "bot_database.db"
 
